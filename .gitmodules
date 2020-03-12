@@ -1,0 +1,5 @@
+[submodule "Build-Configuration-for-IOS"]
+	path = Build-Configuration-for-IOS
+	url = https://github.com/ourangzeb/Build-Configuration-for-IOS.git
+	branch = master
+	ignore = all
